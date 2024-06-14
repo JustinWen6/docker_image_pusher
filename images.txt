@@ -1,4 +1,4 @@
 nginx
 redis
 nacos/nacos-server
-elasticsearch
+elasticsearch:7.3.1
